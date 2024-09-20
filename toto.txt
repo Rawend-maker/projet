@@ -1,2 +1,7 @@
 hello
 kkkkkk
+ <<<<<< HEAD
+ Contenu local
+ =======
+ Contenu distant
+ >>>>>>> ee4291c54c3d96f5736094a212c5592126a88d3d
